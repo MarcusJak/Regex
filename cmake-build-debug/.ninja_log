@@ -1,0 +1,8 @@
+# ninja log v5
+1	194	1679663344316556606	CMakeFiles/labb1_2.dir/main.cpp.o	2be1f30fa9a66b6a
+2	239	1679588931927946721	CMakeFiles/labb1_2.dir/lexFile.cpp.o	9d2f0218f50a2ed5
+2	221	1679661501078666818	CMakeFiles/labb1_2.dir/parsing.cpp.o	2fcae79bf9bbee84
+195	219	1679663344342832533	labb1_2	beb9b9c121f15edb
+0	29	1686152562147083482	build.ninja	8bdd5ef4a765ab7a
+2	210	1679661684241754003	CMakeFiles/labb1_2.dir/matchingFile.cpp.o	b71ad05f06521bfa
+0	4	0	clean	3c8e6cc385ee00ba
